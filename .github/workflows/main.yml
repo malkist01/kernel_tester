@@ -16,7 +16,7 @@ jobs:
           config: j4corelte_defconfig
           arch: arm
           aosp-gcc: true
-          aosp-clang: true
+          aosp-clang: false
           python-2.7: true
           android-version: 9
           aosp-clang-version: r383902
