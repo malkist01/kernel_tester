@@ -19,4 +19,4 @@ jobs:
           aosp-clang: false
           python-2.7: true
           android-version: 12
-          aosp-clang-version: r383902
+          # aosp-clang-version: r383902
