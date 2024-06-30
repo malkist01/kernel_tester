@@ -11,8 +11,8 @@ jobs:
       - name: Build
         uses: dabao1955/kernel_build_action@main
         with:
-          kernel-url: https://github.com/Chococatpp/android_kernel_samsung_msm8917_Q/
-          branch: upstream/3.18.140-stable
+          kernel-url: https://github.com/Chococatpp/android_kernel_samsung_msm8917_Q
+          branch: main
           config: j4corelte_defconfig
           arch: arm
           aosp-gcc: true
