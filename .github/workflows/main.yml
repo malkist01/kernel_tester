@@ -18,3 +18,4 @@ jobs:
           aosp-gcc: true
           python-2.7: true
           android-version: 12
+          aosp-clang-version: r383902
