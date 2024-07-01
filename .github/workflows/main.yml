@@ -17,4 +17,4 @@ jobs:
           arch: arm
           aosp-gcc: true
           python-2.7: true
-          android-version: 9
+          android-version: 12
